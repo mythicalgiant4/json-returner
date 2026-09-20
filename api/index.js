@@ -15,7 +15,7 @@ export default function handler(req, res) {
   }
   
   res.status(200).json({
-    "host": "194.100.4.63",
+    "host": "194.100.4.12",
     "relay": "",
     "api": "",
     "key": "vu4mQ7Gr0K3Hm2yqRsjissbD8lQc+NJO1OFTM87d0jA="
